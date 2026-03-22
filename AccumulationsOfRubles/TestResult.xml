@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="2" name="Pluralize.dll" fullname="C:\Users\task\Desktop\csucsharp\AccumulationsOfRubles\bin\Debug\net8.0\Pluralize.dll" testcasecount="1" result="Passed" start-time="2026-03-22T12:51:38.1795729Z" end-time="2026-03-22T12:51:38.1942669Z" duration="0.014677" total="1" passed="1" failed="0" inconclusive="0" skipped="0" warnings="0" asserts="0" random-seed="2122924910">
+  <command-line><![CDATA[C:\Users\task\Desktop\csucsharp\AccumulationsOfRubles\bin\Debug\net8.0\Pluralize.dll]]></command-line>
+  <filter />
+  <test-suite type="Assembly" id="1002" name="Pluralize.dll" fullname="C:\Users\task\Desktop\csucsharp\AccumulationsOfRubles\bin\Debug\net8.0\Pluralize.dll" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-03-22T12:51:38.1795729Z" end-time="2026-03-22T12:51:38.1942669Z" duration="0.014677" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+    <environment framework-version="4.2.2.0" clr-version="8.0.23" os-version="Microsoft Windows 10.0.26200" platform="Win32NT" cwd="C:\Users\task\Desktop\csucsharp\AccumulationsOfRubles" machine-name="TASK-MACHINE" user="task" user-domain="task-machine" culture="ru-RU" uiculture="ru-RU" os-architecture="x64" />
+    <settings>
+      <setting name="WorkDirectory" value="C:\Users\task\Desktop\csucsharp\AccumulationsOfRubles" />
+      <setting name="NumberOfTestWorkers" value="16" />
+    </settings>
+    <properties>
+      <property name="_PID" value="29640" />
+      <property name="_APPDOMAIN" value="Pluralize" />
+    </properties>
+    <test-suite type="TestSuite" id="1003" name="Pluralize" fullname="Pluralize" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-03-22T12:51:38.1819129Z" end-time="2026-03-22T12:51:38.1942503Z" duration="0.012337" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="TestFixture" id="1000" name="Pluralize_Should" fullname="Pluralize.Pluralize_Should" classname="Pluralize.Pluralize_Should" runstate="Runnable" testcasecount="1" result="Passed" start-time="2026-03-22T12:51:38.1826107Z" end-time="2026-03-22T12:51:38.1941015Z" duration="0.011491" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="0">
+        <test-case id="1001" name="BeCorrect" fullname="Pluralize.Pluralize_Should.BeCorrect" methodname="BeCorrect" classname="Pluralize.Pluralize_Should" runstate="Runnable" seed="1984600040" result="Passed" start-time="2026-03-22T12:51:38.1842629Z" end-time="2026-03-22T12:51:38.1929296Z" duration="0.008699" asserts="0" />
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
